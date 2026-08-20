@@ -21,7 +21,7 @@
 
 ## 文件列表
 
-- [《贡献纪元》全书中文版 PDF]（[https://github.com/hyt638600/The-Epoch-of-Contribution/blob/main/The-Epoch-of-Contribution-Full-Text.pdf](https://github.com/hyt638600/The-Epoch-of-Contribution/releases/download/%E8%B4%A1%E7%8C%AE%E4%B8%BB%E4%B9%89/The-Epoch-of-Contribution-Full-Text.pdf)）
+- [《贡献纪元》全书中文版 PDF](./The-Epoch-of-Contribution-Full-Text.pdf)
 
 ---
 
