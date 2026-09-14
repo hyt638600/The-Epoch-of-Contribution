@@ -1,2 +1,23 @@
-# The-Epoch-of-Contribution
-Contributionism; Theory of All-Things-as-Capital; Resonance Physics; Contribution Value; Civilizational Transition; Paradigm Shift; Post-capitalism; Metabolic Tax
+# 《贡献纪元：新文明的操作系统——从万物资本到贡献主义》
+
+一部完整的文明转型蓝图。从哲学根基出发，重新定义资本、善恶与理性，设计一套以“贡献值”为核心的社会操作系统，并提供从今天就可以开始的实践路径。全书25万字，五篇环环相扣。
+
+## 版权与使用声明
+
+本作品电子版永久免费。任何人、任何组织不得以任何形式独占其电子版本。它属于全人类，属于一切存在，属于万物。
+
+任何出版机构均可出版本作品的纸质版，纸质版定价与收益完全由出版方自主决定，作者不从中获取任何资源或报酬。
+
+任何语言的翻译，欢迎译者遵循本书的术语对照表。翻译完成后，建议将译稿提交作者检查。
+
+本作品诞生于中国，但属于全世界。各国读者可自由转换视角，替换其中的地域性、文化性或制度性指涉。它可从任何一个地方开始。
+
+作者不占有这本书。它只是借由作者被说出，然后回到它本属于的地方——万物之中。
+
+## 文件列表
+
+- [《贡献纪元》中文原版 PDF](./The-Epoch-of-Contribution-ZH-Full-Text.pdf) —— **基准版本**
+- [《贡献纪元》英文版 PDF](./The-Epoch-of-Contribution-EN-Full-Text.pdf) —— 基于中文原版的翻译
+## 联系方式
+
+作者邮箱：hytyuwang94@gmail.com
